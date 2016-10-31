@@ -43,7 +43,7 @@ Diese Formeln sind vor allem für Navigationszwecke vorgesehen und dürfen nicht
 
 ### Scripts pour WGS84 <-> LV03
 
-swisstopo a créé quelques exemples de script permettant de calculer la projection suisse. Avec ceux-ci, vous pouvez transformer des coordonnées WGS84 en coordonnées suisses CH1903/MN et réciproquement.
+**swisstopo a créé quelques exemples de script permettant de calculer la projection suisse. Avec ceux-ci, vous pouvez transformer des coordonnées WGS84 en coordonnées suisses CH1903/MN et réciproquement.**
 
 Les formules approchées pour la transformation directe de coordonnées WGS84 en coordonnées en projection suisse MN03 (CH1903) sont utilisées dans ces scripts. 
 Ces formules sont avant tout destinées à des applications de navigation et ne doivent pas être utilisées en mensuration nationale ou pour des travaux géodésiques !
