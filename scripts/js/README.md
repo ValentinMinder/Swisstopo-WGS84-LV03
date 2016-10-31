@@ -8,7 +8,9 @@ Import this file with:
 <script src="wgs84_ch1903.js">
 ```
 
+Then call:
+
 ```js
-var coords = Swisstopo.WGStoCH(lat, lng); // coords = [y, x]
-var coords = Swisstopo.CHtoWGS(y, x); // coords = [longitude, latitude]
+var coordsGPS = Swisstopo.CHtoWGS(y, x); // coords = [longitude, latitude]
+var CoordsCH = Swisstopo.WGStoCH(lat, lng); // coords = [y, x]
 ```
