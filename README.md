@@ -8,7 +8,7 @@
 - Authors: U. Marti swisstopo / H. Dupraz EPFL
 - Published: 10.07.2015
 - Software system:	Windows / DOS / Unix / Linux / MacOS
-- **Programming language:	C# / JAVA / JS / PHP / Python / R / SQL**
+- **Programming language:	C# / JAVA / GO / JS / PHP / Python / R / SQL**
 - **Price:	Free of charge**
 - **License:	Open Source (MIT License)**
 - Remarks:	Comments in English, No support
