@@ -1,6 +1,8 @@
 // The MIT License (MIT)
 // 
 // Copyright (c) 2014 Federal Office of Topography swisstopo, Wabern, CH
+// Copyright (c) 2016 Sacha Bron https://github.com/BinaryBrain
+// Copyright (c) 2016 Basile Vu https://github.com/Flagoul
 // 
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 //	of this software and associated documentation files (the "Software"), to deal
