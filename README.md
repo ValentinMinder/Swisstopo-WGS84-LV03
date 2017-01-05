@@ -2,29 +2,6 @@
 
 **Programmatic computer scripts to transpose GPS WGS-84 coordinates to/from the swiss militay and civilian coordinate system (LV-03/CH-1903).**
 
-## About 
-
-- Version: WGS84<->CH1903/LV03 (05.1999)
-- Authors: U. Marti swisstopo / H. Dupraz EPFL
-- Published: 10.07.2015
-- Software system:	Windows / DOS / Unix / Linux / MacOS
-- **Programming language:	C# / JAVA / GO / JS / PHP / Python / R / SQL**
-- **Price:	Free of charge**
-- **License:	Open Source (MIT License)**
-- Remarks:	Comments in English, No support
-
-***On 1st March 2016, this content was freely available on swisstopo website.***
-
-- [Original (broken on 1st July 2016)](http://www.swisstopo.admin.ch/internet/swisstopo/en/home/products/software/products/skripts.html)
-- [Copy (available on 1st July 2016)](http://www.mont-terri.ch/internet/swisstopo/en/home/products/software/products/skripts.html)
-
-### REST web geoservices (REFRAME Web API)
-
-*REST geoservices for reference frame changes WGS84-LV95-LV03/Bessel-LHN95-LN02*
-
-swisstopo offers different REST ("REpresentational State Transfer") services which allow you to embed coordinates transformations in your own software products or web services.
-[Swisstopo Webservices](https://www.swisstopo.admin.ch/en/maps-data-online/calculation-services/m2m.html)
-
 ## Description
 
 ### Scripts for WGS84<->LV03
@@ -62,3 +39,26 @@ Ces formules sont avant tout destinées à des applications de navigation et ne 
 - Bessel ellipsoid 1841
 - The projection center is the fundamental point at the old observatory in Bern (Longitude 7 ° 26 '22:50 "/ latitude 46 ° 57' 08.66" -> coordinates 600'000 .000 East / North 200'000 .000)
 - Approximation (accuracy on the 1-meter level) 
+
+### REST web geoservices (REFRAME Web API)
+
+*REST geoservices for reference frame changes WGS84-LV95-LV03/Bessel-LHN95-LN02*
+
+swisstopo offers different REST ("REpresentational State Transfer") services which allow you to embed coordinates transformations in your own software products or web services.
+[Swisstopo Webservices](https://www.swisstopo.admin.ch/en/maps-data-online/calculation-services/m2m.html)
+
+## About 
+
+- Version: WGS84<->CH1903/LV03 (05.1999)
+- Authors: U. Marti swisstopo / H. Dupraz EPFL
+- Published: 10.07.2015
+- Software system:	Windows / DOS / Unix / Linux / MacOS
+- **Programming language:	C# / JAVA / GO / JS / PHP / Python / R / SQL**
+- **Price:	Free of charge**
+- **License:	Open Source (MIT License)**
+- Remarks:	Comments in English, No support
+
+***On 1st March 2016, this content was freely available on swisstopo website.***
+
+- [Original (broken on 1st July 2016)](http://www.swisstopo.admin.ch/internet/swisstopo/en/home/products/software/products/skripts.html)
+- [Copy (available on 1st July 2016)](http://www.mont-terri.ch/internet/swisstopo/en/home/products/software/products/skripts.html)
